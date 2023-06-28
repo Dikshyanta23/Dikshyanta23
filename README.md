@@ -1,5 +1,5 @@
 - Hello, my name is Dikshyanta Uprety.
 - A software developer interested in full-stack web development.
-- Interested in sports and literature.
+- Passionate about football and classical literature.
 - I am keen to collaborate with teams on any software development project.
 - My aim as a software developer is to be able to be involved in different open source projects. 
