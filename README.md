@@ -1,5 +1,4 @@
 - Hello, my name is Dikshyanta Uprety.
-- A fellow developer interested in the full-stack.
-- Passionate about e-sports, music and classic literature.
-- Keen learner and super enthusiastic to join any team initiative.
-- Aim to make a lot of contribution to the open source. 
+- Passionate about full stack development using the MERN stack, Data Science, Machine learning and Artificial Intelligence.
+- Hobbies include music, movies and literature.
+
